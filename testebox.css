@@ -39,3 +39,8 @@ body{
     left: 100px;
     position: sticky;
 }
+
+.box2:hover{
+    background-color: aqua;
+    border: 5px solid green;
+}
