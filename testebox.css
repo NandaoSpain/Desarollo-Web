@@ -24,6 +24,7 @@ body{
     height: 200px;
     width: 200px;
     position: sticky;
-    top: 400px;
+    top: 300px;
+    left: 100px;
     border-radius: 100px;
 }
