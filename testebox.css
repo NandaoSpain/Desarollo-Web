@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+    height: 200%;
+}
+
+.container{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 100px;
+}
+
+.box{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 500px;
+}
